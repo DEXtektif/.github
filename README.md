@@ -39,6 +39,8 @@
 ## 📑 Table of Contents
 
 - [What is DEXtektif?](#-what-is-dextektif)
+- [Project Showcase Video](#-project-showcase-video)
+- [Competition Achievement](#-competition-achievement)
 - [The Problem](#-the-problem)
 - [How DEXtektif Solves It](#-how-dextektif-solves-it)
 - [Key Features](#-key-features)
@@ -52,6 +54,31 @@
 **DEXtektif** is an AI-powered risk-monitoring platform built to help regulators and crypto businesses in Indonesia detect money-laundering activity on **Decentralized Exchanges (DEX)** — before it does damage. It was created for the **BI-OJK Hackathon 2025**.
 
 This organization hosts the repositories that make up the DEXtektif platform — the tools regulators, compliance teams, and API consumers use to monitor wallets, investigate suspicious activity, manage blacklists, and generate compliance reports. See [Repositories](#-repositories) below for the full list.
+
+## 🎬 Project Showcase Video
+
+<div align="center">
+
+[![DEXtektif Project Showcase](profile/assets/placeholder.png)](https://drive.google.com/file/d/1H7mDAkMWnRxhGAk8HUCr97fXZ-GSjTDh/preview)
+
+</div>
+
+## 🏆 Competition Achievement
+
+DEXtektif was honored as a **Top 15 Semifinalist** of the **BI-OJK Hackathon 2025**, hosted by **Bank Indonesia** (Indonesia's Central Bank) and **Otoritas Jasa Keuangan (OJK)** (Indonesia's Financial Services Authority).
+
+> 📌 **Competition Page:** [archive.faizath.com](https://archive.faizath.com/archive/1768636861.333245/singlefile.html) (archived — the original page at <https://hackathon.fekdi.co.id/> is down)
+
+**What is BI-OJK Hackathon 2025?** A nationwide hackathon jointly run by Bank Indonesia and OJK to source technology-driven solutions across three problem statements: **AI as a Service (AIaaS) for Digital Delivered Service Export**, **Financial Innovation & Public Services**, and **Risk Management & Consumer Protection** (fraud detection, AML/CFT compliance, and blockchain/on-chain analysis — the track DEXtektif competed in). It ran from its kickoff on June 5, 2025 through submissions, semifinals, and a final quarantine/judging round on October 28–29, 2025, culminating in a winner announcement and showcase at **FEKDI 2025** (Oct 30–Nov 1, 2025), with prizes up to **Rp 200,000,000** per category.
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="profile/assets/11-15th%20Semifinalists%20Leaderboard.png" alt="11-15th Semifinalists Leaderboard" width="400"></td>
+      <td><img src="profile/assets/certificates_gallery.png" alt="Certificates Gallery" width="400"></td>
+    </tr>
+  </table>
+</div>
 
 ## 🚨 The Problem
 

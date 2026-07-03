@@ -12,7 +12,7 @@
         <!--
         🛰️ <b>CDN:</b> <a>dextektif-cdn.faizath.com</a> (formerly <i>cdn.dextektif.com</i>)<br>
         -->
-        📈 <b>Status Pages:</b> <a href="https://status.faizath.com/status/dextektif.com">https://status.faizath.com/status/dextektif.com</a> (formerly <i>status.dextektif.com</i>)
+        📈 <b>Status Pages:</b> <a href="https://status.faizath.com/status/dextektif">https://status.faizath.com/status/dextektif</a> (formerly <i>status.dextektif.com</i>)
         </p>
       </td>
     </tr>

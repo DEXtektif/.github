@@ -12,7 +12,7 @@
         <!--
         🛰️ <b>CDN:</b> <a>dextektif-cdn.faizath.com</a> (formerly <i>cdn.dextektif.com</i>)<br>
         -->
-        📈 <b>Status Pages:</b> <a href="https://status.faizath.com/status/dextektif">https://status.faizath.com/status/dextektif</a> (formerly <i>status.dextektif.com</i>)
+        📈 <b>Status Pages:</b> <a href="https://status.faizath.com/status/dextektif">https://status.faizath.com/status/dextektif.com</a> (formerly <i>status.dextektif.com</i>)
         </p>
       </td>
     </tr>
@@ -44,6 +44,7 @@
 - [The Problem](#-the-problem)
 - [How DEXtektif Solves It](#-how-dextektif-solves-it)
 - [Key Features](#-key-features)
+- [Screenshots](#-screenshots)
 - [Repositories](#-repositories)
 - [Links & Contact](#-links--contact)
 
@@ -67,9 +68,9 @@ This organization hosts the repositories that make up the DEXtektif platform —
 
 DEXtektif was honored as a **Top 15 Semifinalist** of the **BI-OJK Hackathon 2025**, hosted by **Bank Indonesia** (Indonesia's Central Bank) and **Otoritas Jasa Keuangan (OJK)** (Indonesia's Financial Services Authority).
 
-> 📌 **Competition Page:** [archive.faizath.com](https://archive.faizath.com/archive/1768636861.333245/singlefile.html) (archived — the original page at <https://hackathon.fekdi.co.id/> is down)
+> 📌 **Competition Page:** [https://archive.faizath.com/archive/1768636861.333245/singlefile.html](https://archive.faizath.com/archive/1768636861.333245/singlefile.html) (archived — the original page at <https://hackathon.fekdi.co.id/> is down)
 
-**What is BI-OJK Hackathon 2025?** A nationwide hackathon jointly run by Bank Indonesia and OJK to source technology-driven solutions across three problem statements: **AI as a Service (AIaaS) for Digital Delivered Service Export**, **Financial Innovation & Public Services**, and **Risk Management & Consumer Protection** (fraud detection, AML/CFT compliance, and blockchain/on-chain analysis — the track DEXtektif competed in). It ran from its kickoff on June 5, 2025 through submissions, semifinals, and a final quarantine/judging round on October 28–29, 2025, culminating in a winner announcement and showcase at **FEKDI 2025** (Oct 30–Nov 1, 2025), with prizes up to **Rp 200,000,000** per category.
+BI-OJK Hackathon 2025 is a nationwide hackathon jointly run by Bank Indonesia and OJK to source technology-driven solutions across three problem statements: **AI as a Service (AIaaS) for Digital Delivered Service Export**, **Financial Innovation & Public Services**, and **Risk Management & Consumer Protection** (fraud detection, AML/CFT compliance, and blockchain/on-chain analysis — the track DEXtektif competed in). It ran from its kickoff on June 5, 2025 through submissions, semifinals, and a final quarantine/judging round on October 28–29, 2025, culminating in a winner announcement and showcase at **FEKDI 2025** (Oct 30–Nov 1, 2025), with prizes up to **Rp 200,000,000** per category.
 
 <div align="center">
   <table>
@@ -141,6 +142,49 @@ Core capabilities delivered across the DEXtektif platform:
 | 🗂️ **Case Management** | Track and manage ongoing investigations into flagged activity. |
 | 📄 **Compliance Reports** | Generate Quarterly, Annual, AML, SAR, and Investigation reports — with AI-assisted report drafting and PDF export. |
 | 🧪 **API Studio** | Manage API keys and preview live risk-scoring responses for third-party integrations. |
+
+## 📸 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="profile/assets/screenshots/1.png" alt="Landing page hero" width="400"></td>
+      <td><img src="profile/assets/screenshots/2.png" alt="Landing page preview and login screen" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="profile/assets/screenshots/3.png" alt="Dashboard — KPIs and transaction trends" width="400"></td>
+      <td><img src="profile/assets/screenshots/4.png" alt="Dashboard — notifications panel" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="profile/assets/screenshots/5.png" alt="Blacklist Management — wallet list" width="400"></td>
+      <td><img src="profile/assets/screenshots/6.png" alt="Blacklist Management — Import CSV modal" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="profile/assets/screenshots/7.png" alt="Blacklist Management — Export CSV" width="400"></td>
+      <td><img src="profile/assets/screenshots/8.png" alt="Blacklist Management — exported CSV data" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="profile/assets/screenshots/9.png" alt="Blacklist Management — Export PDF" width="400"></td>
+      <td><img src="profile/assets/screenshots/10.png" alt="Blacklist Management — generated PDF report" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="profile/assets/screenshots/11.png" alt="Blacklist Management — Add Wallet modal" width="400"></td>
+      <td><img src="profile/assets/screenshots/12.png" alt="Wallet Analysis — search and recent analyses" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="profile/assets/screenshots/13.png" alt="Wallet Analysis — risk assessment detail" width="400"></td>
+      <td><img src="profile/assets/screenshots/14.png" alt="Wallet Graph — transaction network visualization" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="profile/assets/screenshots/15.png" alt="Case Management" width="400"></td>
+      <td><img src="profile/assets/screenshots/16.png" alt="Risk Heatmap" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="profile/assets/screenshots/17.png" alt="Compliance Reports" width="400"></td>
+      <td><img src="profile/assets/screenshots/18.png" alt="API Studio" width="400"></td>
+    </tr>
+  </table>
+</div>
 
 ## 📦 Repositories
 
